@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af0d3e40-f07d-4ad4-9a9c-17060a80ae62" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/2. Creating Numpy array.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2. Creating Numpy array.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pandas/.ipynb_checkpoints/Introduction-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pandas/.ipynb_checkpoints/4. GroupBy-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Pandas/.ipynb_checkpoints/4. GroupBy-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Pandas/introduction.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
